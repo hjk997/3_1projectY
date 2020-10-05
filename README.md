@@ -1,2 +1,7 @@
 # 3_1projectY
-2019.04 ~ 2019.06동안 진행한 프로젝트 소스입니다.  자세한건 README를 참고해주세요. 
+
+
+시연 영상 : https://youtu.be/xRQ2ePxqJCs 
+개발 기간 : 2019. 04.02 ~ 2019.06.05
+사용 도구 : java, eclipse, google youtube api
+
